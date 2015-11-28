@@ -1,0 +1,2 @@
+/home/taprosoft/gtar/build/CMakeFiles/ui_copy_gtar.dir
+/home/taprosoft/gtar/build/CMakeFiles/gtar.dir
